@@ -22,3 +22,6 @@ Requires [TamperMonkey](https://tampermonkey.net) or [GreaseMonkey](https://www.
   - Canvas-Renderer for better speed with may caches
   - Tooltips showing the cache names
 - The circles overly the normal caches (couldn't solve this)
+
+# Screenshot
+![image](https://user-images.githubusercontent.com/5115160/39074054-3e64429c-44f0-11e8-8c11-531ec0978e75.png)
